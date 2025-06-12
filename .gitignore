@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch
+*.pth
+*.pt
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models and large files (벡터 DB 파일들은 용량이 크므로 제외)
+models/faiss_index/
+*.index
+*.pkl
+*.npy
+
+# Data files (CSV 파일들은 포함하되, 너무 크면 제외 고려)
+# data/*.csv
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
