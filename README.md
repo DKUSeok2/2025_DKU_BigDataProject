@@ -197,7 +197,7 @@ streamlit run app.py --server.address=0.0.0.0
 
 **개발 기간**: 2025년 3월 ~ 2025년 6월  
 **개발자** : 정다훈, 오유석  
-**목적**: 단국대학교 빅데이터 과목 프로젝트  
+**목적**: 단국대학교 대학원 빅데이터 과목 프로젝트  
 **기술 스택**: Python, FAISS, Transformers, Streamlit, CUDA  
 **데이터**: 건국대 주변 15개 맛집, 750개 실제 리뷰  
 **GitHub**: https://github.com/Downy-newlearner/2025_DKU_BigDataProject 
